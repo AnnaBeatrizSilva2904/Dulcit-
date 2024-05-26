@@ -12,7 +12,7 @@ Criação do projeto:
  Banco de Dados:
  - Abrir o XAMPP e ativar o MySQL
  - copiar o banco de dados no MySQL Workbench
- - executar "use dulcita"
+ - executar o banco de dados
 
  Terminal:
  - abrir o terminal no VScode
