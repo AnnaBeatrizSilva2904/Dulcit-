@@ -1,0 +1,18 @@
+Criação do projeto:
+
+ Intalações de dependências:
+ - npm install (fazer esse comando no terminal do VScode)
+
+ Banco de Dados:
+ - Abrir o XAMPP e ativar o MySQL
+ - copiar o banco de dados no MySQL Workbench
+ - executar "use dulcita"
+
+ Terminal:
+ - abrir o terminal no VScode
+ - entrar na pasta "backend"
+ - digitar "node servidor.js" no terminal
+
+ Extensões a serem instaladas:
+ - instalar a extensão "Live server"
+ - apertar no botão "Go Live" para abrir o projeto no navegador
